@@ -21,6 +21,7 @@
 :Å pronounced "aw" as in "law"
 :the consonant J and the combination GJ as Y in (young). "jobb" (work) would be pronounced "yobb".
 
+
 [LIVING]
 @Norway:
 - w e a t h e r
@@ -34,9 +35,13 @@ for free.
 
 [RESOURCES]
 
+
 [HITCHIKE]
-@Norway:
+
+@Norway
+
 - Vehicles with Norwegian green license plates do not have rear seats. Except some vans.
+
 - distances(2 dudes):
 :Stavanger - Mandal (near Kristiansand) - 1 day
 :Mandal - Oslo - 1 day
@@ -55,6 +60,13 @@ for free.
 :Trondheim - Bergen: 10 hours
 :Trondheim - Tromsø: 15 hours
 :Most southern point of Norway(Lindesnes) - northern point (Nordkapp): ca. 1 day, 8 hours.
+
+@Denmark
+
+- The best spot to hitchhike to Sweden is probably at Kastrup Airport(Copenhagen). Take the 
+metro to the station "Lufthavnen / Copenhagen Airport", leave the terminal on the other side 
+of the metro exit to the large parking lot and then go to the roundabout at the end, next to 
+McDonalds/Netto/Statoil.
 
 [FERRIES]
 @Norway
