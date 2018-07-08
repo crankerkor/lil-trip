@@ -1,10 +1,73 @@
 [GENERAL]
+@Norway
+- Useful Language Bits:
+:Thank you - Tusen takk
+:Cheers - Skål
+:How are you? - Hvordan går det?
+:North - nord
+:South - sør
+:West - vest
+:East - øst
+
+-Vowels: Vowels are pronounced very differently in Norwegian as opposed to English:
+:A pronounced "ah" as in bar
+:E pronounced "eh" as in heck
+:I pronounced "e" as in here or "i" as in hill
+:O pronounced "oo" as in moon and in other times, "aw" as in law
+:U pronounced "ou" as in soup
+:Y pronounced "ew" as in few (rounded lips)
+:Æ pronounced "a" as in bag
+:Ø pronounced "er" as in "her" without the R sound
+:Å pronounced "aw" as in "law"
+:the consonant J and the combination GJ as Y in (young). "jobb" (work) would be pronounced "yobb".
 
 [LIVING]
+@Norway:
+- w e a t h e r
+- q:"Maybe taking a warm tent as I did was the best idea ever, the experience of camping 
+in the woods in those mountains was very nice."
+- The Hurtigruten is a daily shipping service on Norway's coast, it stops in most towns 
+along the way, starting in Bergen and going all the way up to Kirkenes on the Russian border. 
+In many towns it stops for 3 or 4 hours and while it's in port, you can go onboard as a visitor 
+for free. Just have your ID handy. Many ships have saunas and some have hot tubs that you can use 
+for free.
+
+[RESOURCES]
 
 [HITCHIKE]
 @Norway:
 - Vehicles with Norwegian green license plates do not have rear seats. Except some vans.
+- distances(2 dudes):
+:Stavanger - Mandal (near Kristiansand) - 1 day
+:Mandal - Oslo - 1 day
+:Oslo - Trondheim - 1 day
+:Trondheim - Mor e Rana - 1 day
+:Mo i Rana - Karlsøya - 1 day
+:Karlsøya to Tampere, Finland - 2 days or 1 day and 1 night
+- distances(by car):
+:Oslo - Trondheim: ca. 7 hours
+:Oslo - Bergen : ca. 7 hours
+:Oslo - Kristiandsand: ca. 4 hours
+:Oslo - Stavanger: ca. 7 hours
+:Oslo - Tromsø: ca. 22 hours
+:Stavanger - Kristiandsand: ca. 3 hours
+:Stavanger- Bergen: ca. 3,5 hours (2 ferries)
+:Trondheim - Bergen: 10 hours
+:Trondheim - Tromsø: 15 hours
+:Most southern point of Norway(Lindesnes) - northern point (Nordkapp): ca. 1 day, 8 hours.
+
+[FERRIES]
+@Norway
+- Hitch on the side where the cars drive into the ferry because in many places it's hard to 
+hitch on the other side. 
+- You can maybe knock on people's windows when they wait for the ferry, especially if they 
+come early and have to wait long, it's easy to talk to them.
+- You can maybe try to hitch into cars that have already paid for the ferry but on almost all 
+car ferries, and definitely all the short distance ones, you pay extra for each passenger.
+- When the ferry arrives and the ticket sellers (can recognize them easily) are busy making 
+tickets to cars just enter the ferry and nobody will tell you anything, the guys at the entrance 
+of the boat are not supposed to check tickets just to tell cars where to go so they won't stop 
+you nor anything, just think that you have already paid before.
 - On hitchhiking short distance ferries that are usually paid by the amount of people in 
 the car, especially around the fjords of Bergen and the Western coast of Norway: When your 
 driver enters a ferry, be sure he or she is not the first or second car in line. As soon 
@@ -14,5 +77,3 @@ car when the boat is on the other side. Nobody will check on you during the ride
 the cars leave the ferry. Thus I would highly recommend you to be in a car while boarding 
 a ferry. If you are not, just ask a few drivers! If you still cannot find a car, there's 
 also a few possibilities to sneak if you time it right and you are not seen by the officials.
-
-[FERRIES]
