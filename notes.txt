@@ -1,5 +1,7 @@
 [GENERAL]
+
 @Norway
+
 - Useful Language Bits:
 :Thank you - Tusen takk
 :Cheers - Skål
@@ -21,9 +23,22 @@
 :Å pronounced "aw" as in "law"
 :the consonant J and the combination GJ as Y in (young). "jobb" (work) would be pronounced "yobb".
 
+@Finland
+
+- Useful expressions:
+:Hello = Terve
+:Hi = Moi or Hei
+:Hitchhiking = Liftaaminen
+:To hitchhike = Liftata
+:A ride = Kyyti
+:Thank you very much = Kiitos paljon
+:Where are you driving to? = Minne ajat?
+:I don't speak Finnish = En puhu suomea
 
 [LIVING]
+
 @Norway:
+
 - w e a t h e r
 - q:"Maybe taking a warm tent as I did was the best idea ever, the experience of camping 
 in the woods in those mountains was very nice."
@@ -41,7 +56,7 @@ for free.
 You can find two supermarkets ALDI and REMA 1000, where to dumpster dive in + a Statoil, where to 
 wash everything. And small forest/bushes, where to stay for the night.
 
-[HITCHIKE]
+[HITCHHIKE]
 
 @Norway
 
@@ -72,9 +87,29 @@ wash everything. And small forest/bushes, where to stay for the night.
 metro to the station "Lufthavnen / Copenhagen Airport", leave the terminal on the other side 
 of the metro exit to the large parking lot and then go to the roundabout at the end, next to 
 McDonalds/Netto/Statoil.
+- The cars cannot stop in crossing areas, and some drivers who disobeyed this rule and picked 
+up hitchhikers have been fined.
+- In the south avoid motorways for smaller local roads. there is less traffic but more room for 
+cars to stop. drivers will stop only where they feel it is safe, try to hike at bus stops.
+- alternative point:
+:You can hitch anywhere.
+:During the summer you can hitch 24/7.
+:People are not that scared (half of the drivers are women).
+:People are very glad to give a ride because they don't see hitchhikers that often.
+- Hitchhiking seems to get easier the more North you go in Finland
+- the highways are better in the South and there is more traffic
+
+@Finland
+
+- illegal to hitchhike directly on motorways (moottoritie) and some two-land expressways 
+roads (moottoriliikennetie) -- green signs. can hitch there from on-ramps (which often have 
+bus stops that drivers will stop at) and petrol stations.
+
 
 [FERRIES]
+
 @Norway
+
 - Hitch on the side where the cars drive into the ferry because in many places it's hard to 
 hitch on the other side. 
 - You can maybe knock on people's windows when they wait for the ferry, especially if they 
