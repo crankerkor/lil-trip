@@ -37,7 +37,7 @@
 
 [LIVING]
 
-@Norway:
+@Norway
 
 - w e a t h e r
 - q:"Maybe taking a warm tent as I did was the best idea ever, the experience of camping 
