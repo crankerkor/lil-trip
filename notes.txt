@@ -1,10 +1,15 @@
 [GENERAL]
 
+
 [LIVING]
 
+
 [HITCHIKE]
-@Norway:
+
+@Norway
+
 - Vehicles with Norwegian green license plates do not have rear seats. Except some vans.
+
 - On hitchhiking short distance ferries that are usually paid by the amount of people in 
 the car, especially around the fjords of Bergen and the Western coast of Norway: When your 
 driver enters a ferry, be sure he or she is not the first or second car in line. As soon 
@@ -14,7 +19,13 @@ car when the boat is on the other side. Nobody will check on you during the ride
 the cars leave the ferry. Thus I would highly recommend you to be in a car while boarding 
 a ferry. If you are not, just ask a few drivers! If you still cannot find a car, there's 
 also a few possibilities to sneak if you time it right and you are not seen by the officials.
-@Denmark:
-Copenhagen: 
--The best spot to hitchhike to Sweden is probably at Kastrup Airport. Take the metro to the station "Lufthavnen / Copenhagen Airport", leave the terminal on the other side of the metro exit to the large parking lot and then go to the roundabout at the end, next to McDonalds/Netto/Statoil.
+
+@Denmark
+
+- The best spot to hitchhike to Sweden is probably at Kastrup Airport(Copenhagen). Take the 
+metro to the station "Lufthavnen / Copenhagen Airport", leave the terminal on the other side 
+of the metro exit to the large parking lot and then go to the roundabout at the end, next to 
+McDonalds/Netto/Statoil.
+
+
 [FERRIES]
