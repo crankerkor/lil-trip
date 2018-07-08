@@ -1,5 +1,7 @@
 [GENERAL]
+
 @Norway
+
 - Useful Language Bits:
 :Thank you - Tusen takk
 :Cheers - Skål
@@ -23,7 +25,7 @@
 
 
 [LIVING]
-@Norway:
+@Norway
 - w e a t h e r
 - q:"Maybe taking a warm tent as I did was the best idea ever, the experience of camping 
 in the woods in those mountains was very nice."
@@ -74,7 +76,9 @@ of the metro exit to the large parking lot and then go to the roundabout at the 
 McDonalds/Netto/Statoil.
 
 [FERRIES]
+
 @Norway
+
 - Hitch on the side where the cars drive into the ferry because in many places it's hard to 
 hitch on the other side. 
 - You can maybe knock on people's windows when they wait for the ferry, especially if they 
