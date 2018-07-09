@@ -50,6 +50,12 @@ for free.
 
 [RESOURCES]
 
+@Norway
+
+-  в USE IT на Møllergata 3, в самому центрі, ви можете знайти безкоштовні камери схову, 
+безкоштовний Wi-Fi, безкоштовну каву і презервативи.
+- Місця для кемпінгу: Ekeberg park і Østmarka park
+
 @Denmark
 
 - (Copenhagen) dumpster diving - E20, highway exit 59, Fredericia S (First highway exit on Jutland). 
@@ -110,6 +116,7 @@ bus stops that drivers will stop at) and petrol stations.
 
 @Norway
 
+- https://www.norled.no/en/maps-and-schedules/ferry/hordaland/
 - Hitch on the side where the cars drive into the ferry because in many places it's hard to 
 hitch on the other side. 
 - You can maybe knock on people's windows when they wait for the ferry, especially if they 
